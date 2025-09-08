@@ -8,8 +8,8 @@
 ---
 
 ## 👨‍💻 About Me
-I am **Suliman Yousef**, a Computer Science graduate with a strong foundation in **Software Engineering** and **Web Development**.  
-I enjoy solving problems, creating innovative solutions, and constantly improving my skills through hands-on projects.
+I'm **Suliman Yousef**, a Computer Science graduate passionate about software engineering and web development.  
+I specialize in creating **responsive, efficient, and modern web applications** while continuously learning new technologies.
 
 | 🔢 Years Experience | 📂 Projects Completed | ⚡ Technologies Mastered |
 |-------------------|-------------------|-------------------------|
@@ -19,10 +19,10 @@ I enjoy solving problems, creating innovative solutions, and constantly improvin
 
 ## 🛠️ Technical Skills
 
-| Frontend | Backend | Tools & Others | Other Tech |
-|----------|---------|----------------|------------|
+| Frontend | Backend | Tools & Others | Others |
+|----------|---------|----------------|--------|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Database](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |  | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
 
@@ -30,12 +30,12 @@ I enjoy solving problems, creating innovative solutions, and constantly improvin
 
 ## 🎓 Education & Certifications
 
-| 🎓 Education | Institution | Year |
-|--------------|------------|------|
+| Education | Institution | Year |
+|-----------|------------|------|
 | Bachelor of Computer Science | Taibah University, Medina | 2020 - 2025 |
 
-| 📜 Certification | Organization | Year |
-|-----------------|-------------|------|
+| Certification | Organization | Year |
+|---------------|-------------|------|
 | Web Application Development | Doroob | 2025 |
 | Full Stack Web Developer | Satar | 2024 |
 | CSS (Basic & Intermediate) | HackerRank | 2025 |
@@ -53,7 +53,7 @@ I enjoy solving problems, creating innovative solutions, and constantly improvin
 ## 🛎️ Services
 | 🌐 Frontend Development | ⚙️ Backend Development | 🖥️ Software Engineering | 🎨 UI/UX Design |
 |--------------------------|-------------------------|--------------------------|-----------------|
-| Responsive UIs, HTML, CSS, JS, React | Node.js, Express.js, APIs, PostgreSQL | Scalable, maintainable, tested code | Wireframes, Prototypes, Figma, Design Systems |
+| Responsive UI, HTML, CSS, JS, React | Node.js, Express.js, APIs, PostgreSQL | Clean, scalable, maintainable code | Wireframes, Prototypes, Figma, Design Systems |
 
 ---
 
