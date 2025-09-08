@@ -6,7 +6,7 @@
 
 ---
 
-## 🌈 About Me
+##  About Me
 I'm a **Computer Science graduate** passionate about **Software Engineering & Web Development**.  
 I enjoy creating **efficient, scalable, and modern applications** while continuously improving my skills.  
 
@@ -46,21 +46,28 @@ I enjoy creating **efficient, scalable, and modern applications** while continuo
 ---
 
 ## 🎓 Education & Certifications
-### Education
-- **Bachelor of Computer Science** – Taibah University, Medina (2020 - 2025)
 
-### Certifications
-- Web Application Development – Doroob (2025)  
-- Full Stack Web Developer – Satar (2024)  
-- CSS (Basic & Intermediate) – HackerRank (2025)  
-- JavaScript (Basic & Intermediate) – HackerRank (2025)  
-- Flutter App Developer – Satar (2024)  
-- Android App Developer – Satar (2022)  
-- Data Analysis Course – Satar (2025)  
-- Web Development Fundamentals – IBM (2025)  
-- UI/UX Designer Using Figma – Satr (2025)  
-- Artificial Intelligence Fundamentals – IBM (2025)  
-- Agile Explorers – IBM (2025)  
+### 📘 Education
+| Degree | University | Year |
+|--------|------------|------|
+| **Bachelor of Computer Science** | Taibah University, Medina | 2020 - 2025 |
+
+---
+
+### 📜 Certifications
+| Certification | Organization | Year |
+|---------------|-------------|------|
+| Web Application Development | Doroob | 2025 |
+| Full Stack Web Developer | Satar | 2024 |
+| CSS (Basic & Intermediate) | HackerRank | 2025 |
+| JavaScript (Basic & Intermediate) | HackerRank | 2025 |
+| Flutter App Developer | Satar | 2024 |
+| Android App Developer | Satar | 2022 |
+| Data Analysis Course | Satar | 2025 |
+| Web Development Fundamentals | IBM | 2025 |
+| UI/UX Designer Using Figma | Satr | 2025 |
+| Artificial Intelligence Fundamentals | IBM | 2025 |
+| Agile Explorers | IBM | 2025 |
 
 ---
 
