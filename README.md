@@ -7,89 +7,45 @@
 
 ---
 
-## 🏠 Navigation
-| [Home](#-home) | [About](#-about-me) | [Resume](#-resume) | [Services](#-services) | [Projects](#-projects) | [Contact](#-contact) |
-
----
-
-## 🏡 Home
-**I'm a...**
-- Software Engineer  
-- Web Developer  
-- Front-End Developer  
-- Back-End Developer *(soon)*  
-- Full Stack Developer  
-- MERN Stack Enthusiast  
-
----
-
 ## 👨‍💻 About Me
-### Software Engineering & Web Development
+I'm a **Software Engineer & Web Developer** with hands-on experience in creating modern, responsive, and scalable web applications.  
+I enjoy problem-solving, coding clean and efficient solutions, and staying up-to-date with industry trends.
 
-| 🔢 | **Stats** |
-|----|-----------|
-| ⏳ Years Experience | `0+` |
-| 📂 Projects Completed | `10+` |
-| ⚡ Technologies Mastered | `5+` |
-
-> I am **Suliman Yousef**, a Computer Science graduate with strong skills in software engineering and web development.  
-> Passionate about technology, problem-solving, and creating modern web applications with **clean, efficient, and scalable code**.
+| 🔢 Years Experience | 📂 Projects Completed | ⚡ Technologies Mastered |
+|-------------------|-------------------|-------------------------|
+| 0+                | 10+               | 5+                       |
 
 ---
 
 ## 🛠️ Technical Skills
-
-| Skill | Level |
-|-------|-------|
-| HTML / CSS | ▰▰▰▰▰ 95% |
-| JavaScript | ▰▰▰▰▱ 70% |
-| TypeScript | ⏳ In Progress |
-| React | ⏳ In Progress |
-| Next.js | ⏳ In Progress |
-| Node.js | ⏳ In Progress |
-| Express.js | ⏳ In Progress |
-| Python | ▰▰▱▱▱ 20% |
-| Database Management | ▰▱▱▱▱ 14% |
-| Git/GitHub | ▰▰▰▰▰ 90% |
+| Frontend | Backend | Tools & Others | Others |
+|----------|---------|----------------|--------|
+| HTML / CSS | Node.js | Git / GitHub | Python |
+| JavaScript | Express.js | Figma | Database Management |
+| TypeScript | PostgreSQL | Flutter | React (soon) |
+| React |  |  | Next.js (soon) |
 
 ---
 
-## 🎯 My Approach
-| 💡 Technology Focus | 🚀 Innovation | ⚡ Efficiency | 🤝 Collaboration |
-|----------------------|---------------|---------------|------------------|
-| Staying updated with modern tech | Creative digital solutions | High-quality, optimized results | Effective teamwork |
+## 🎓 Education & Certifications
 
----
+| Education | Institution | Year |
+|-----------|------------|------|
+| Bachelor of Computer Science | Taibah University, Medina | 2020 - 2025 |
 
-## 🧑‍🤝‍🧑 Soft Skills
-✅ Teamwork  
-✅ Critical Thinking  
-✅ Adaptability  
-✅ Time Management  
-✅ Leadership  
-✅ Problem Solving  
-✅ Communication  
-
----
-
-## 🎓 Resume
-**📘 Education**  
-- **Bachelor of Computer Science** – *Taibah University, Medina (2020 - 2025)*  
-
-**📜 Certifications**  
-- Web Application Development – Doroob (2025)  
-- Full Stack Web Developer – Satar (2024)  
-- CSS (Basic & Intermediate) – HackerRank (2025)  
-- JavaScript (Basic & Intermediate) – HackerRank (2025)  
-- Flutter App Developer – Satar (2024)  
-- Android App Developer – Satar (2022)  
-- Data Analysis Course – Satar (2025)  
-- Web Development Fundamentals – IBM (2025)  
-- UI/UX Designer Using Figma – Satr (2025)  
-- Artificial Intelligence Fundamentals – IBM (2025)  
-- Agile Explorers – IBM (2025)  
-
-[📄 View CV](#) | [⬇️ Download CV](#)
+| Certification | Organization | Year |
+|---------------|-------------|------|
+| Web Application Development | Doroob | 2025 |
+| Full Stack Web Developer | Satar | 2024 |
+| CSS (Basic & Intermediate) | HackerRank | 2025 |
+| JavaScript (Basic & Intermediate) | HackerRank | 2025 |
+| Flutter App Developer | Satar | 2024 |
+| Android App Developer | Satar | 2022 |
+| Data Analysis Course | Satar | 2025 |
+| Web Development Fundamentals | IBM | 2025 |
+| UI/UX Designer Using Figma | Satr | 2025 |
+| Artificial Intelligence Fundamentals | IBM | 2025 |
+| Agile Explorers | IBM | 2025 |
 
 ---
 
@@ -101,44 +57,24 @@
 ---
 
 ## 🚀 Projects
-### 📱 [Smart Life Organizer](https://github.com/Su03l/smartLiveOrganizer)  
-An intelligent app for habit tracking & time organization with reminders and voice interaction.  
-**Tech:** Flutter, Dart, Python, FastAPI, PostgreSQL  
-
-### 🌐 [Personal Profile](https://suliamanyousef.vercel.app/)  
-My portfolio showcasing projects, skills, and professional journey.  
-**Tech:** HTML, CSS, JavaScript  
-
-### 🔐 [3Algorithms](https://su03l.github.io/MorseRot13Atbash/)  
-Encryption tools (Morse, ROT13, Atbash) for education.  
-**Tech:** HTML, CSS, JavaScript  
-
-### 📋 [TaskHub](https://su03l.github.io/TaskHub/)  
-Graduation project management & collaboration platform.  
-**Tech:** HTML, CSS, JavaScript  
-
-### 🏨 [TourismBusiness](https://rightarm.vercel.app/)  
-Hotel website with rooms, booking, and services.  
-**Tech:** React, TypeScript, JS, HTML, CSS  
-
-### 🎓 [ProjexHub](https://su03l.github.io/ProjexHubFinal/)  
-Platform for sharing & discovering academic projects.  
-**Tech:** React, TypeScript, JS, HTML, CSS  
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| Smart Life Organizer | App for habit tracking & time management with reminders and voice interaction | Flutter, Dart, Python, FastAPI, PostgreSQL | [Live](https://github.com/Su03l/smartLiveOrganizer) / [Code](https://github.com/Su03l/smartLiveOrganizer) |
+| Personal Profile | Portfolio website showcasing my work, skills, and experience | HTML, CSS, JS | [Live](https://suliamanyousef.vercel.app/) / [Code](https://github.com/Su03l/suliamanyousef.github.io) |
+| 3Algorithms | 3 encryption tools: Morse, ROT13, Atbash | HTML, CSS, JS | [Live](https://su03l.github.io/MorseRot13Atbash/) / [Code](https://github.com/Su03l/MorseRot13Atbash) |
+| TaskHub | Graduation project management & team collaboration platform | HTML, CSS, JS | [Live](https://su03l.github.io/TaskHub/) / [Code](https://github.com/Su03l/TaskHub) |
+| TourismBusiness | Hotel website with booking & services | React, TypeScript, JS, HTML, CSS | [Live](https://rightarm.vercel.app/) / [Code](https://github.com/Su03l/TourismBusiness) |
+| ProjexHub | Platform for sharing & discovering academic projects | React, TypeScript, JS, HTML, CSS | [Live](https://su03l.github.io/ProjexHubFinal/) / [Code](https://github.com/Su03l/ProjexHubFinal) |
 
 ---
 
 ## 📬 Contact
-📧 **Email:** [sulimany662@gmail.com](mailto:sulimany662@gmail.com)  
-📱 **Phone:** +966 59 012 8804  
-📍 **Location:** Medina, Saudi Arabia  
-🐦 **Twitter:** [@Su05l](https://twitter.com/Su05l)  
+| Email | Phone | Location | Twitter |
+|-------|-------|----------|---------|
+| [sulimany662@gmail.com](mailto:sulimany662@gmail.com) | +966 59 012 8804 | Medina, Saudi Arabia | [@Su05l](https://twitter.com/Su05l) |
 
----
-
-## 🔗 Quick Links
-| [Home](#-home) | [About](#-about-me) | [Resume](#-resume) | [Services](#-services) | [Projects](#-projects) | [Contact](#-contact) |
+Feel free to reach out if you're looking for a developer, have a question, or just want to connect.
 
 ---
 
 ⭐️ © 2025 **Suliman Yousef** – All rights reserved.
-
