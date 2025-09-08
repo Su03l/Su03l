@@ -1,60 +1,94 @@
-# Hey there 👋, I'm Suliman Yousef  
-
-🚀 **Computer Science Graduate** | 💻 **Software Engineer in the making** | 🌍 **Web Developer**  
-
-I’m passionate about building modern, scalable, and impactful applications.  
-Love solving problems, learning new technologies, and turning ideas into **digital reality**.  
+<h1 align="center">Hey 👋, I'm Suliman Yousef</h1>
+<h3 align="center">💻 Software Engineering | 🌐 Web Development | 🚀 Always Learning</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science Graduate  
-- 💡 Interested in **Full-Stack Web Development**  
-- 🔭 Currently learning **TypeScript, React, Next.js, Node.js, Express.js**  
-- ⚡ Fun fact: I believe **clean code = happy life** 😄  
-- 🌱 Always exploring and growing my skill set  
+🔹 Computer Science Graduate with a passion for **building digital solutions**  
+🔹 Exploring **Full-Stack Development** (React, Next.js, Node.js, Express.js)  
+🔹 Love solving problems and writing **clean, efficient, maintainable code**  
+🔹 Always curious & staying up-to-date with new technologies  
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=javascript" width="50"/><br>JavaScript
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=typescript" width="50"/><br>TypeScript (learning)
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>React (learning)
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js (learning)
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js (learning)
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express.js (learning)
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
-  <br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <br/>
-  <!-- Other -->
-  <img src="https://skillicons.dev/icons?i=python,git,github,mysql,postgres" />
-</p>  
-
----
-
-## 📊 My Journey
-- 🏆 **10+ Projects Completed**  
-- 🖥️ **5+ Technologies Mastered**  
-- 🌱 **Always learning something new**  
-
----
-
-## 📈 GitHub Stats  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Su03l&theme=radical&hide_border=true" alt="Streak Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://suliman-yousef-link-tree.vercel.app/"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>  
+## 🚀 Highlight Projects
+📌 Explore my repositories — each project represents part of my **learning journey**  
+➡️ [See my projects here](https://github.com/Su03l?tab=repositories)  
 
 ---
 
-✨ *“The best way to predict the future is to create it.”* ✨
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://suliman-yousef-link-tree.vercel.app/"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+✨ *“Great developers are lifelong learners.”* ✨
