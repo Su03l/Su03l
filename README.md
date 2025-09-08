@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suliman Yousef (SY)
+# 🌟 Suliman Yousef (SY)
 
 **💻 Software Engineer | 🌐 Web Developer | 🎨 UI/UX Designer**
 
@@ -6,9 +6,9 @@
 
 ---
 
-## 🧑‍💻 About Me
-I'm a **Computer Science graduate** passionate about **Software Engineering** and **Web Development**.  
-I enjoy solving problems, creating efficient and scalable applications, and learning new technologies.
+## 👨‍💻 About Me
+I'm **Suliman Yousef**, a Computer Science graduate passionate about **Software Engineering** and **Web Development**.  
+I enjoy creating **efficient, scalable, and innovative solutions** while continuously learning new technologies.
 
 | 🔢 Experience | 📂 Projects | ⚡ Skills Mastered |
 |---------------|------------|------------------|
@@ -17,7 +17,6 @@ I enjoy solving problems, creating efficient and scalable applications, and lear
 ---
 
 ## 🛠️ Technical Skills
-
 | Skill | Level |
 |-------|-------|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ▰▰▰▰▰ 95% |
@@ -36,14 +35,15 @@ I enjoy solving problems, creating efficient and scalable applications, and lear
 ---
 
 ## 🚀 Featured Projects
-| Project | Description | Tech Stack | Live / Code |
-|---------|-------------|------------|-------------|
-| **Smart Life Organizer** | Habit tracker & daily organizer with reminders & voice commands | Flutter, Dart, Python, FastAPI, PostgreSQL | [Live](https://github.com/Su03l/smartLiveOrganizer) / [Code](https://github.com/Su03l/smartLiveOrganizer) |
-| **Personal Profile** | Portfolio showcasing my projects, skills & experience | HTML, CSS, JS | [Live](https://suliamanyousef.vercel.app/) / [Code](https://github.com/Su03l/suliamanyousef.github.io) |
-| **3Algorithms** | 3 encryption tools: Morse, ROT13, Atbash | HTML, CSS, JS | [Live](https://su03l.github.io/MorseRot13Atbash/) / [Code](https://github.com/Su03l/MorseRot13Atbash) |
-| **TaskHub** | Graduation project management & team collaboration | HTML, CSS, JS | [Live](https://su03l.github.io/TaskHub/) / [Code](https://github.com/Su03l/TaskHub) |
-| **TourismBusiness** | Hotel website with booking & services | React, TypeScript, JS, HTML, CSS | [Live](https://rightarm.vercel.app/) / [Code](https://github.com/Su03l/TourismBusiness) |
-| **ProjexHub** | Academic projects sharing platform | React, TypeScript, JS, HTML, CSS | [Live](https://su03l.github.io/ProjexHubFinal/) / [Code](https://github.com/Su03l/ProjexHubFinal) |
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| <span style="color:#FF4C4C">Smart Life Organizer</span> | Habit tracker & daily organizer with reminders & voice commands | Flutter, Dart, Python, FastAPI, PostgreSQL |
+| <span style="color:#FF8C00">Personal Profile</span> | Portfolio website showcasing my work, skills & experience | HTML, CSS, JavaScript |
+| <span style="color:#1E90FF">3Algorithms</span> | 3 encryption tools: Morse, ROT13, Atbash | HTML, CSS, JavaScript |
+| <span style="color:#32CD32">TaskHub</span> | Graduation project management & team collaboration | HTML, CSS, JavaScript |
+| <span style="color:#8A2BE2">TourismBusiness</span> | Hotel website with booking & services | React, TypeScript, JS, HTML, CSS |
+| <span style="color:#FF1493">ProjexHub</span> | Academic projects sharing platform | React, TypeScript, JS, HTML, CSS |
 
 ---
 
@@ -73,12 +73,6 @@ I enjoy solving problems, creating efficient and scalable applications, and lear
 - **Backend Development:** Node.js, Express.js, API development, PostgreSQL  
 - **Software Engineering:** Clean, scalable, maintainable, and tested code  
 - **UI/UX Design:** Wireframes, Prototypes, Figma, Design Systems  
-
----
-
-## 📈 GitHub Stats
-![Suliman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=radical)
 
 ---
 
