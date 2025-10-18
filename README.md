@@ -91,7 +91,8 @@ I enjoy building **efficient, scalable, and modern applications** while continuo
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=github_dark)  
-<br>
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=github_dark)  
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Su03l&theme=github-dark-blue)  
