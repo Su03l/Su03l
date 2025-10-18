@@ -106,11 +106,18 @@ I enjoy building **efficient, scalable, and modern applications** while continuo
 
 ## Contribution Graph
 
-<div align="center">
+## GitHub Stats
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Su03l&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=github_dark" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=github_dark" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Su03l&theme=github-dark-blue" /></td>
+  </tr>
+</table>
 
-</div>
 
 ---
 
