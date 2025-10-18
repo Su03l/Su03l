@@ -13,6 +13,8 @@ _"Turning ideas into impactful digital solutions."_
 
 ## About Me
 
+<div align="center">
+
 I am a **Computer Science graduate** passionate about **software engineering and web development**.  
 I enjoy building **efficient, scalable, and modern applications** while continuously improving my skills.
 
@@ -20,6 +22,8 @@ I enjoy building **efficient, scalable, and modern applications** while continuo
 - 0+ Years Experience  
 - 10+ Projects Completed  
 - 5+ Technologies Mastered  
+
+</div>
 
 ---
 
@@ -37,6 +41,8 @@ I enjoy building **efficient, scalable, and modern applications** while continuo
 
 ## Featured Projects
 
+<div align="center">
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **Smart Life Organizer** | Habit tracker & daily organizer with reminders & voice commands | Flutter, Dart, Python, FastAPI, PostgreSQL |
@@ -46,17 +52,25 @@ I enjoy building **efficient, scalable, and modern applications** while continuo
 | **TourismBusiness** | Hotel website with booking & services | React, TypeScript, JS, HTML, CSS |
 | **ProjexHub** | Academic projects sharing platform | React, TypeScript, JS, HTML, CSS |
 
+</div>
+
 ---
 
 ## Education
+
+<div align="center">
 
 | Degree | University | Year |
 |--------|-------------|------|
 | Bachelor of Computer Science | Taibah University, Medina | 2020 - 2025 |
 
+</div>
+
 ---
 
 ## Certifications
+
+<div align="center">
 
 | Certification | Organization | Year |
 |---------------|--------------|------|
@@ -71,6 +85,8 @@ I enjoy building **efficient, scalable, and modern applications** while continuo
 | UI/UX Designer Using Figma | Satr | 2025 |
 | Artificial Intelligence Fundamentals | IBM | 2025 |
 | Agile Explorers | IBM | 2025 |
+
+</div>
 
 ---
 
@@ -88,25 +104,7 @@ I enjoy building **efficient, scalable, and modern applications** while continuo
 
 ## GitHub Stats
 
-## GitHub Stats
-
-<div align="center> 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=github_dark)  
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=github_dark)  
-</div>
-<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Su03l&theme=github-dark-blue)  
-
-
-
-
----
-
-## Contribution Graph
-
-## GitHub Stats
+<div align="center">
 
 <table>
   <tr>
@@ -118,6 +116,17 @@ I enjoy building **efficient, scalable, and modern applications** while continuo
   </tr>
 </table>
 
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Su03l&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true)
+
+</div>
 
 ---
 
@@ -132,7 +141,6 @@ I enjoy building **efficient, scalable, and modern applications** while continuo
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Su05l)
 
 </div>
-
 
 ---
 
