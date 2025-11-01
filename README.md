@@ -58,22 +58,6 @@ I thrive on solving complex problems and continuously expanding my technical exp
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Technologies |
-|----------|--------------|---------------|
-| **Smart Life Organizer** | Habit tracker & daily organizer with reminders & voice commands | Flutter • Dart • Python • FastAPI • PostgreSQL |
-| **Personal Profile** | Portfolio website showcasing my work, skills & experience | HTML • CSS • JavaScript |
-| **3Algorithms** | Three encryption tools: Morse, ROT13, Atbash | HTML • CSS • JavaScript |
-| **TaskHub** | Graduation project management & team collaboration platform | HTML • CSS • JavaScript |
-| **TourismBusiness** | Hotel booking & services website | React • TypeScript • HTML • CSS |
-| **ProjexHub** | Academic projects sharing platform | React • TypeScript • HTML • CSS |
-
-</div>
-
----
 
 ## GitHub Analytics
 
