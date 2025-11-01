@@ -1,13 +1,13 @@
-<!-- 🌌 Creative GitHub Intro Section -->
-<div align="center" style="background: linear-gradient(180deg, #0d1117, #0b132b, #1b1f3b); padding: 40px 0; border-radius: 20px; box-shadow: 0 0 20px rgba(88,166,255,0.4);">
+<!-- 💼 Professional GitHub Profile -->
+<div align="center" style="background: linear-gradient(180deg, #0d1117, #0b132b, #1b1f3b); padding: 40px 0; border-radius: 20px; box-shadow: 0 0 25px rgba(88,166,255,0.4);">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=50&duration=150&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=S;Su;Sul;Suli;Sulim;Sulima;Suliman;Suliman+Y;Suliman+Yo;Suliman+You;Suliman+Yous;Suliman+Youse;Suliman+Yousef" alt="Suliman Yousef typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=48&duration=120&pause=150&color=58A6FF&center=true&vCenter=true&width=700&lines=S;Su;Sul;Suli;Sulim;Sulima;Suliman;Suliman+Y;Suliman+Yo;Suliman+You;Suliman+Yous;Suliman+Youse;Suliman+Yousef" alt="Suliman Yousef typing animation" />
 </h1>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Developer;Front-End+Developer;Back-End+Developer;Full+Stack+Developer;MERN+Stack" alt="Typing roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+Developer;Front-End+Developer;Back-End+Developer;Full+Stack+Developer;MERN+Stack" alt="Typing roles" />
 
 <br/>
 
@@ -39,24 +39,42 @@ Computer Science graduate passionate about Software Engineering and Web Developm
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🎨 Front-End
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,materialui" height="50"/>
-
-### ⚙️ Back-End
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,python,fastapi" height="50"/>
-
-### 🧩 Tools & Design
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,figma,vscode" height="50"/>
+<table>
+<tr>
+<th>Front-End</th>
+<th>Back-End</th>
+<th>Database</th>
+<th>UI / Design</th>
+<th>Tools</th>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" height="45"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" height="45"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind,materialui,figma" height="45"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" height="45"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 GitHub Stats & Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -82,6 +100,10 @@ Computer Science graduate passionate about Software Engineering and Web Developm
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="creative footer"/>
+<img src="https://i.pinimg.com/originals/ed/5a/77/ed5a778b4d73afc30c25bff9d2a47f3f.gif" width="800" style="border-radius: 20px; box-shadow: 0 0 25px rgba(88,166,255,0.3);" alt="Creative animated footer"/>
+
+<p style="color:#9da5b4; font-size: 14px; margin-top: 10px;">
+Thank you for visiting my profile — always open for collaboration and creative projects.
+</p>
 
 </div>
