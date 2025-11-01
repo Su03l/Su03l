@@ -1,7 +1,7 @@
-# 🧑‍💻 Suliman Yousef (SY)
+# Suliman Yousef (SY)
 
 <div align="center">
-  
+
 **Software Engineer | Web Developer | UI/UX Designer**  
 Turning ideas into impactful digital solutions  
 
@@ -11,7 +11,7 @@ Turning ideas into impactful digital solutions
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <div align="center">
 
@@ -22,7 +22,7 @@ I thrive on solving complex problems and continuously expanding my technical exp
 
 ---
 
-## ⚡ Quick Stats
+## Quick Stats
 
 <div align="center">
 
@@ -34,61 +34,48 @@ I thrive on solving complex problems and continuously expanding my technical exp
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 <div align="center">
 
-### 💻 Programming Languages  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+### Programming Languages  
+<img src="https://skillicons.dev/icons?i=python,java" />
 
-### 🎨 Frontend Development  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+### Frontend Development  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
 
-### 🧩 UI Frameworks & Libraries  
-<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+### UI Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=mui,tailwind" />  
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="28"/>
 
-### ⚙️ Backend & Databases  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> 
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+### Backend & Databases  
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres" />
 
-### 🧰 Tools & Technologies  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logo=api&logoColor=white"/>
+### Tools & Technologies  
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 
 </div>
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Technologies |
 |----------|--------------|---------------|
-| 🤖 **Smart Life Organizer** | Habit tracker & daily organizer with reminders & voice commands | Flutter • Dart • Python • FastAPI • PostgreSQL |
-| 👨‍💻 **Personal Profile** | Portfolio website showcasing my work, skills & experience | HTML • CSS • JavaScript |
-| 🔐 **3Algorithms** | Three encryption tools: Morse, ROT13, Atbash | HTML • CSS • JavaScript |
-| 📋 **TaskHub** | Graduation project management & team collaboration platform | HTML • CSS • JavaScript |
-| 🏨 **TourismBusiness** | Hotel booking & services website | React • TypeScript • HTML • CSS |
-| 🎓 **ProjexHub** | Academic projects sharing platform | React • TypeScript • HTML • CSS |
+| **Smart Life Organizer** | Habit tracker & daily organizer with reminders & voice commands | Flutter • Dart • Python • FastAPI • PostgreSQL |
+| **Personal Profile** | Portfolio website showcasing my work, skills & experience | HTML • CSS • JavaScript |
+| **3Algorithms** | Three encryption tools: Morse, ROT13, Atbash | HTML • CSS • JavaScript |
+| **TaskHub** | Graduation project management & team collaboration platform | HTML • CSS • JavaScript |
+| **TourismBusiness** | Hotel booking & services website | React • TypeScript • HTML • CSS |
+| **ProjexHub** | Academic projects sharing platform | React • TypeScript • HTML • CSS |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -112,7 +99,7 @@ I thrive on solving complex problems and continuously expanding my technical exp
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -122,24 +109,24 @@ I thrive on solving complex problems and continuously expanding my technical exp
 
 ---
 
-## 📞 Get In Touch
+## Get In Touch
 
 <div align="center">
 
 <a href="mailto:sulimany662@gmail.com">
-<img src="https://img.shields.io/badge/Email-sulimany662@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 <a href="https://www.linkedin.com/in/suliaman-yousef">
-<img src="https://img.shields.io/badge/LinkedIn-Suliaman_Yousef-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://twitter.com/Su05l">
-<img src="https://img.shields.io/badge/Twitter-@Su05l-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=twitter" height="40" />
 </a>
 <a href="https://wa.me/966590128804">
-<img src="https://img.shields.io/badge/WhatsApp-+966590128804-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="40" />
 </a>
 <a href="https://t.me/Su05l">
-<img src="https://img.shields.io/badge/Telegram-@Su05l-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=telegram" height="40" />
 </a>
 
 </div>
