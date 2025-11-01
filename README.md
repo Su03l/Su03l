@@ -1,73 +1,91 @@
-<!-- README: Suliman Yousef — Magazine / Card Stack Style (Animated) -->
+<!-- README.md — Suliman Yousef (SY) — Upgraded Magazine / Card Stack Design -->
 
 <div align="center">
 
 # Suliman Yousef (SY)  
 **Software Engineer | Web Developer | UI/UX Designer**  
-*"Turning ideas into impactful digital solutions."*
+_"Turning ideas into impactful digital solutions."_
 
-<!-- Animated hero (small) -->
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="hero" width="120" style="border-radius:12px"/>
+<!-- Hero small animated accent -->
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="hero" width="120" style="border-radius:12px;margin-top:8px"/>
 
 </div>
 
 ---
 
 <div align="center">
+  <!-- Profile views + quick badges -->
+  <img src="https://komarev.com/ghpvc/?username=Su03l&label=Profile%20Views&color=0a66c2&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00b894?style=for-the-badge" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Location-Saudi%20Arabia-0a66c2?style=for-the-badge" alt="Location" />
+</div>
 
-<!-- Quick stats badges -->
-<img src="https://komarev.com/ghpvc/?username=Su03l&label=Profile%20Views&color=0a66c2&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00b894?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-Saudi%20Arabia-0a66c2?style=for-the-badge" />
+---
+
+## About Me
+
+<div align="center">
+
+I am a **Computer Science graduate** passionate about **software engineering and web development**.  
+I enjoy building **efficient, scalable, and modern applications** while continuously improving my skills.
+
+**Quick Facts**
+- 0+ Years Experience  
+- 10+ Projects Completed  
+- 5+ Technologies Mastered  
 
 </div>
 
 ---
 
-## ✨ الفكرة بصيغة Magazine
-هنا README يتصرف كـ**مجلة تقنية مصغّرة**:  
-- كل قسم يعرض داخل "بطاقة" بصيغة مرئية مرتبة.  
-- تفاصيل المشاريع والمهارات مخفية في عناصر قابلة للفتح (`<details>`).  
-- أنيميشن خفيف بصور GIF لجذب الانتباه دون كسر توافق GitHub.
-
----
-
-## 📇 الواجهة — Cards Layout
+## ✨ Visual Layout (Cards)
 
 <table width="100%">
   <tr>
-    <td width="48%" valign="top">
+    <!-- Profile Card -->
+    <td width="48%" valign="top" style="padding:8px;">
+      
+#### 🧾 Profile
+<div style="border-radius:12px;padding:14px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 6px 18px rgba(2,6,23,0.6)">
 
-#### 🧭 Profile Card
-> **Suliman Yousef (SY)**  
-> Software Engineer · Web Developer · UI/UX Designer  
-> _"Turning ideas into impactful digital solutions."_
+**Suliman Yousef (SY)**  
+**Software Engineer | Web Developer | UI/UX Designer**  
+_"Turning ideas into impactful digital solutions."_
 
 **Quick facts**
 - 🎓 Computer Science graduate  
 - 🚀 10+ Projects  
 - 🧰 Main stacks: React · FastAPI · Flutter · PostgreSQL
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" style="border-radius:10px"/>
+<div align="center" style="margin-top:8px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="88" style="border-radius:10px"/>
+</div>
+
+</div>
 
     </td>
 
     <td width="4%"></td>
 
-    <td width="48%" valign="top">
+    <!-- Skills Card -->
+    <td width="48%" valign="top" style="padding:8px;">
 
-#### 🧩 Skills Snapshot
-<div align="left">
+#### 🧩 Technical Skills
+<div style="border-radius:12px;padding:14px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 6px 18px rgba(2,6,23,0.6)">
 
-<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,react,nodejs,fastapi,flutter,postgres,docker,git&theme=dark" alt="skills" />
+<div align="center">
+
+<!-- Skill icons (compact row) -->
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,react,vite,tailwind,mui,nodejs,express,fastapi,postgres,docker,git&theme=dark" alt="skills" />
 
 </div>
 
-**Top skills**
-- Languages: Python · TypeScript · Dart · JavaScript  
-- Frontend: React · Vite · Tailwind · MUI · Shadcn UI  
-- Backend: Node.js · FastAPI · NestJS · Express  
-- Tools: Docker · Git · VSCode · Postman · Figma
+**Programming**: Python · Java · TypeScript · JavaScript  
+**Front-End**: HTML · CSS · React · Vite · Tailwind · MUI · Shadcn UI  
+**Back-End**: Node.js · Express · NestJS · FastAPI · PostgreSQL  
+**Tools & Others**: Git · GitHub · Docker · RESTful APIs · DOM Manipulation
+
+</div>
 
     </td>
   </tr>
@@ -75,63 +93,102 @@
 
 ---
 
-## 🚀 Projects — عرض كروت مع تفاصيل قابلة للفتح
+## 🚀 Featured Projects
 
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Smart Life Organizer** | Habit tracker & daily organizer with reminders & voice commands | Flutter · Dart · Python · FastAPI · PostgreSQL |
+| **Personal Profile** | Portfolio website showcasing my work, skills & experience | HTML · CSS · JavaScript |
+| **3Algorithms** | 3 encryption tools: Morse, ROT13, Atbash | HTML · CSS · JavaScript |
+| **TaskHub** | Graduation project management & team collaboration | HTML · CSS · JavaScript |
+| **TourismBusiness** | Hotel website with booking & services | React · TypeScript · JS · HTML · CSS |
+| **ProjexHub** | Academic projects sharing platform | React · TypeScript · JS · HTML · CSS |
+
+</div>
+
+<!-- Expandable details for projects to keep README tidy -->
 <details>
-<summary><strong>🧠 Smart Life Organizer</strong> — Habit tracker & voice automation</summary>
+<summary><strong>Smart Life Organizer — details</strong></summary>
 
-**Short:** تطبيق لإدارة العادات اليومية مع تذكيرات ذكية وأوامر صوتية.  
-**Stack:** Flutter · Dart · Python · FastAPI · PostgreSQL  
-**Highlights:** AI reminders, habit streaks, offline sync.
+**Smart Life Organizer** — Habit tracker & daily organizer with reminders & voice commands.  
+**Stack:** Flutter, Dart, Python, FastAPI, PostgreSQL  
+**Highlights:** AI reminders, habit streaks, voice commands, offline sync.
 
 </details>
 
 <details>
-<summary><strong>🌐 ProjexHub</strong> — Academic & team projects sharing</summary>
+<summary><strong>Personal Profile — details</strong></summary>
 
-**Short:** منصة لمشاركة المشاريع الأكاديمية والتعاون الجماعي.  
-**Stack:** React · TypeScript · FastAPI  
-**Highlights:** Project search, team roles, file versions.
+**Personal Profile** — Portfolio website showcasing work & experience.  
+**Stack:** HTML, CSS, JavaScript
 
 </details>
 
 <details>
-<summary><strong>🧩 TaskHub</strong> — Project management (Graduation)</summary>
+<summary><strong>3Algorithms — details</strong></summary>
 
-**Short:** نظام لإدارة مشاريع التخرج مع تتبع المهام.  
-**Stack:** HTML · CSS · JavaScript · Node.js  
-**Highlights:** Task assignments, deadlines, simple analytics.
+**3Algorithms** — Morse, ROT13, Atbash tools.  
+**Stack:** HTML, CSS, JavaScript
+
+</details>
+
+<details>
+<summary><strong>TaskHub — details</strong></summary>
+
+**TaskHub** — Project management & team collaboration (graduation project).  
+**Stack:** HTML, CSS, JavaScript
+
+</details>
+
+<details>
+<summary><strong>TourismBusiness — details</strong></summary>
+
+**TourismBusiness** — Hotel website with booking & services.  
+**Stack:** React, TypeScript, JS, HTML, CSS
+
+</details>
+
+<details>
+<summary><strong>ProjexHub — details</strong></summary>
+
+**ProjexHub** — Academic projects sharing platform.  
+**Stack:** React, TypeScript, JS, HTML, CSS
 
 </details>
 
 ---
 
-## 🎛️ Visual Stats (cards + animated bars)
+## 📊 GitHub Stats & Visuals
 
 <div align="center">
 
-<!-- Simple visual "bars" represented by images/GIFs to simulate animation -->
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="260" alt="bar-anim" style="border-radius:8px">
-<br/>
-<sub>Progress visuals: Skills · Contributions · Active projects</sub>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=github_dark" alt="github stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=github_dark" alt="top languages" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Su03l&theme=github-dark-blue" alt="streak" /></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📝 About Me — بطاقتي الشخصية (مختصر)
+## Contribution Graph
 
-> I'm a Computer Science graduate who builds clean, maintainable web & mobile apps.  
-> I enjoy combining UI/UX sense with backend architecture to deliver complete products.
+<div align="center">
 
-**Focus areas**
-- Building full-stack features end-to-end  
-- Clean UI/UX and accessible interfaces  
-- Scalable APIs and data design
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Su03l&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true)
+
+</div>
 
 ---
 
-## 📬 Contact & Links
+## 📬 Contact
 
 <div align="center">
 
@@ -145,12 +202,4 @@
 
 ---
 
-## ⚙️ Notes & Tips (لتثبيت أفضل عرض)
-- لتحسين الـ"أنيميشن": ضع صورة GIF صغيرة (Hero) أعلى كل بطاقة تعرض حركة دخول.  
-- GitHub لا يدعم كل خصائص CSS داخل README، لذلك استخدمت GIFs وSVGs لتأمين الحركة.  
-- لو تريد نسخة كاملة على صفحة ويب (React) — أقدر أصمم نسخة تفاعلية 1:1 مع حركات Framer Motion وCSS متقدمة.
-
----
-
-© 2025 **Suliman Yousef** — Designed as a Magazine / Card Stack Portfolio
-
+© 2025 **Suliman Yousef** – All rights reserved.
