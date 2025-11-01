@@ -106,4 +106,6 @@ Computer Science graduate passionate about Software Engineering and Web Developm
 Thank you for visiting my profile — always open for collaboration and creative projects.
 </p>
 
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="creative footer"/>
+
 </div>
