@@ -41,36 +41,7 @@ Computer Science graduate passionate about Software Engineering and Web Developm
 
 ## Tech Stack
 
-<div align="center">
-
-<table>
-<tr>
-<th>Front-End</th>
-<th>Back-End</th>
-<th>Database</th>
-<th>UI / Design</th>
-<th>Tools</th>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" height="45"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" height="45"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,figma" height="45"/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" height="45"/>
-</td>
-</tr>
-</table>
-
-</div>
+<div align="center"> <table> <tr> <th>Front-End</th> <th>Back-End</th> <th>Database</th> <th>UI / Design</th> <th>Tools</th> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" height="45"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,laravel" height="45"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=postgres" height="45"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=tailwind,materialui,figma" height="45"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" height="45"/> </td> </tr> </table> </div>
 
 ---
 
