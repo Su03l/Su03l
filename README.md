@@ -32,7 +32,11 @@ Computer Science graduate passionate about Software Engineering and Web Developm
 <a href="https://twitter.com/Su05l">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+<br/>
 
+<a href="https://github.com/Su03l">
+  <img src="https://komarev.com/ghpvc/?username=Su03l&label=Profile+Views&color=58A6FF&style=for-the-badge&labelColor=0d1117" alt="Profile Views Counter" />
+</a>
 </div>
 
 </div>
