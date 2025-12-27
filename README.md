@@ -1,4 +1,3 @@
-<!-- 💼 Professional GitHub Profile -->
 <div align="center" style="background: linear-gradient(180deg, #0d1117, #0b132b, #1b1f3b); padding: 40px 0; border-radius: 20px; box-shadow: 0 0 25px rgba(88,166,255,0.4);">
 
 <h1 align="center">
@@ -7,20 +6,20 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+Developer;Front-End+Developer;Back-End+Developer;Full+Stack+Developer;MERN+Stack" alt="Typing roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Laravel+%26+React+Specialist;Building+Scalable+Solutions" alt="Typing roles" />
 
 <br/>
 
-<p align="center" style="font-size: 16px; color: #e2e2e2; width: 60%;">
-Computer Science graduate passionate about Software Engineering and Web Development, constantly improving through hands-on projects.
+<p align="center" style="font-size: 16px; color: #e2e2e2; width: 70%; line-height: 1.6;">
+Software Engineer & CS Graduate passionate about building robust web applications. <br>
+Specializing in <b>Laravel, React, and Next.js</b> to deliver high-quality digital solutions.
 </p>
 
 <br/>
 
-<!-- 🌐 Social Links Section -->
 <div align="center">
 
-<a href="https://suliamanyousef.vercel.app/">
+<a href="https://suliman-yousef-link-tree.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-1b1f3b?style=for-the-badge&logo=vercel&logoColor=58A6FF&labelColor=0d1117" />
 </a>
 <a href="https://github.com/Su03l">
@@ -45,23 +44,46 @@ Computer Science graduate passionate about Software Engineering and Web Developm
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-<div align="center"> <table> <tr> <th>Front-End</th> <th>Back-End</th> <th>Database</th> <th>UI / Design</th> <th>Tools</th> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" height="45"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,laravel" height="45"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=postgres" height="45"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=tailwind,materialui,figma" height="45"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" height="45"/> </td> </tr> </table> </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120"><b>Frontend</b></td>
+      <td align="center" width="120"><b>Backend</b></td>
+      <td align="center" width="120"><b>Database</b></td>
+      <td align="center" width="120"><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,mui" height="50"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express" height="50"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" height="50"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" height="50"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 </td>
 </tr>
 <tr>
@@ -76,11 +98,11 @@ Computer Science graduate passionate about Software Engineering and Web Developm
 ---
 
 <div align="center">
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" style="border-radius: 20px;" alt="Coding Animation"/>
 
-<img src="https://i.pinimg.com/originals/ed/5a/77/ed5a778b4d73afc30c25bff9d2a47f3f.gif" width="800" style="border-radius: 20px; box-shadow: 0 0 25px rgba(88,166,255,0.3);" alt="Creative animated footer"/>
-
-<p style="color:#9da5b4; font-size: 14px; margin-top: 10px;">
-Thank you for visiting my profile — always open for collaboration and creative projects.
+<p style="color:#9da5b4; font-size: 14px; margin-top: 20px;">
+🚀 Open to freelance opportunities and collaborations.
 </p>
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="creative footer"/>
