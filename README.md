@@ -82,11 +82,14 @@ Software Engineer and Computer Science graduate specializing in building scalabl
 
 <br/>
 <br/>
-
 <div align="center">
-<p style="color:#8b949e; font-size: 12px;">
-Suliman Yousef © 2025
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" style="border-radius: 20px;" alt="Coding Animation"/>
+
+<p style="color:#9da5b4; font-size: 14px; margin-top: 20px;">
+ Open to freelance opportunities and collaborations.
 </p>
-</div>
+
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="creative footer"/>
 
 </div>
