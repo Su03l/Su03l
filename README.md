@@ -26,6 +26,12 @@ Software Engineer and Computer Science graduate specializing in building scalabl
 </div>
 
 <br/>
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Su03l&label=Profile%20Views&color=58A6FF&style=flat"
+    alt="Profile Views Counter"
+  />
+</p>
 
 <h3 align="center" style="color: #58A6FF; font-family: sans-serif;">Technical Skills</h3>
 
