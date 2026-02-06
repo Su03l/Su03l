@@ -62,7 +62,7 @@
 <h2 align="center" style="color: #58A6FF;">Development Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&title_color=58A6FF&icon_color=58A6FF" height="160" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&title_color=58A6FF&icon_color=58A6FF](https://camo.githubusercontent.com/09add772f0fc0b225b7d902fb96ec9e05f5cdfae2598ca5ac7229acf7630ff4e/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73696e676861746568266c61796f75743d636f6d70616374267468656d653d7261646963616c26686964655f626f726465723d74727565)" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" height="160" alt="Top Languages" />
 </div>
 
