@@ -30,49 +30,102 @@
 
 <img src="https://komarev.com/ghpvc/?username=Su03l&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 
-<br/><br/>
-
-<h2 align="center" style="color: #58A6FF;">Technical Arsenal</h2>
-
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <h4 style="color: #8b949e;">Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,mui,html,css&theme=dark&perline=5" />
-    </td>
-    <td align="center" style="padding: 20px;">
-      <h4 style="color: #8b949e;">Backend</h4>
-      <img src="https://skillicons.dev/icons?i=spring,java,laravel,php,nodejs,express,python&theme=dark&perline=4" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <h4 style="color: #8b949e;">Database & Cloud</h4>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb&theme=dark&perline=4" />
-    </td>
-    <td align="center" style="padding: 20px;">
-      <h4 style="color: #8b949e;">Dev Tools</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark&perline=4" />
-    </td>
-  </tr>
-</table>
+</div>
 
 <br/>
 
-<h2 align="center" style="color: #58A6FF;">Development Analytics</h2>
+## Technical Arsenal
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&title_color=58A6FF&icon_color=58A6FF](https://camo.githubusercontent.com/09add772f0fc0b225b7d902fb96ec9e05f5cdfae2598ca5ac7229acf7630ff4e/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73696e676861746568266c61796f75743d636f6d70616374267468656d653d7261646963616c26686964655f626f726465723d74727565)" height="160" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>Frontend Development</h4>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,mui,html,css&theme=dark" />
+      </td>
+      <td align="center" width="50%">
+        <h4>Backend Development</h4>
+        <img src="https://skillicons.dev/icons?i=spring,java,laravel,php,nodejs,express,python&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h4>Database & Cloud</h4>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb&theme=dark" />
+      </td>
+      <td align="center">
+        <h4>Development Tools</h4>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## Development Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&title_color=58A6FF&icon_color=58A6FF" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" height="160" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Su03l&bg_color=0d1117&color=58a6ff&line=58A6FF&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Su03l&bg_color=0d1117&color=58a6ff&line=58A6FF&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
-<br/><br/>
+<br/>
+
+## Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>Project One</h3>
+        <p>Brief description of your most impressive project. Highlight the key technologies used and the main problem it solves.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3>Project Two</h3>
+        <p>Brief description of another key project. Emphasize the architecture decisions and performance outcomes achieved.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>Project Three</h3>
+        <p>Description of a project demonstrating your full-stack capabilities or problem-solving skills.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3>Project Four</h3>
+        <p>Brief overview of another significant contribution to open source or personal project.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" style="border-radius: 15px;" alt="Coding Animation"/>
