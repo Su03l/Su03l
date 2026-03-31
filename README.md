@@ -83,15 +83,14 @@
 ##  Development Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Su03l&theme=dark" width="800" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Su03l&theme=dark&hide_border=true&background=0d1117&ring=FF2D20&fire=FF2D20&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF2D20&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Su03l&bg_color=0d1117&color=c9d1d9&line=FF2D20&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-</div>>
-
+</div>
 <br/>
 
 <div align="center">
