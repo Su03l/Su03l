@@ -37,27 +37,44 @@
 ## Technical Arsenal
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>Frontend Development</h4>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,mui,html,css&theme=dark" />
-      </td>
-      <td align="center" width="50%">
-        <h4>Backend Development</h4>
-        <img src="https://skillicons.dev/icons?i=spring,java,laravel,php,nodejs,express,python&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h4>Database & Cloud</h4>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb&theme=dark" />
-      </td>
-      <td align="center">
-        <h4>Development Tools</h4>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark" />
-      </td>
-    </tr>
+  <table style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+    <thead>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <th align="center" style="padding: 12px 24px;">Frontend Development</th>
+        <th align="center" style="padding: 12px 24px;">Backend Development</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="padding: 20px;">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,mui,html,css&theme=dark" />
+        </td>
+        <td align="center" style="padding: 20px;">
+          <img src="https://skillicons.dev/icons?i=spring,java,laravel,php,nodejs,express,python&theme=dark" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <br/>
+
+  <table style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+    <thead>
+      <tr style="border-bottom: 1px solid #30363d;">
+        <th align="center" style="padding: 12px 24px;">Database & Cloud</th>
+        <th align="center" style="padding: 12px 24px;">Development Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="padding: 20px;">
+          <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb&theme=dark" />
+        </td>
+        <td align="center" style="padding: 20px;">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark" />
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
@@ -78,55 +95,6 @@
 
 <br/>
 
-## Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>Project One</h3>
-        <p>Brief description of your most impressive project. Highlight the key technologies used and the main problem it solves.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3>Project Two</h3>
-        <p>Brief description of another key project. Emphasize the architecture decisions and performance outcomes achieved.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3>Project Three</h3>
-        <p>Description of a project demonstrating your full-stack capabilities or problem-solving skills.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3>Project Four</h3>
-        <p>Brief overview of another significant contribution to open source or personal project.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" style="border-radius: 15px;" alt="Coding Animation"/>
 </div>
@@ -134,5 +102,3 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
-
-</div>
