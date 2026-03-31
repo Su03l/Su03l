@@ -34,41 +34,25 @@
 <h2 align="center" style="color: #FF2D20; font-family: monospace;">Technical_Arsenal</h2>
 
 <div align="center">
-  <table style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
-    <thead>
-      <tr>
-        <th align="center" style="padding: 15px 30px; border-bottom: 2px solid #FF2D20; border-right: 1px solid #30363d; color: #c9d1d9; font-family: monospace;">Frontend_Development</th>
-        <th align="center" style="padding: 15px 30px; border-bottom: 2px solid #FF2D20; color: #c9d1d9; font-family: monospace;">Backend_&_Databases</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="padding: 20px; border-right: 1px solid #30363d;">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark&perline=4" alt="Frontend" />
-        </td>
-        <td align="center" style="padding: 20px;">
-          <img src="https://skillicons.dev/icons?i=laravel,php,spring,java,nodejs,postgres,mysql&theme=dark&perline=4" alt="Backend" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <br/>
+  <h3 style="color: #c9d1d9; font-family: monospace;">>_ Frontend_Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend" />
+  </p>
 
   <br/>
 
-  <table style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
-    <thead>
-      <tr>
-        <th align="center" style="padding: 15px 60px; border-bottom: 2px solid #FF2D20; color: #c9d1d9; font-family: monospace;">Tools_&_Infrastructure</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="padding: 20px;">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&theme=dark&perline=6" alt="Tools" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <h3 style="color: #c9d1d9; font-family: monospace;">>_ Backend_&_Databases</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=laravel,php,spring,java,nodejs,postgres,mysql&theme=dark" alt="Backend" />
+  </p>
+
+  <br/>
+
+  <h3 style="color: #c9d1d9; font-family: monospace;">>_ Tools_&_Infrastructure</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&theme=dark" alt="Tools" />
+  </p>
 </div>
 
 <br/>
