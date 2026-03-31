@@ -83,15 +83,14 @@
 ##  Development Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=c9d1d9&cache_seconds=3600" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF2D20&text_color=c9d1d9&cache_seconds=3600" height="160" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Su03l&theme=dark" width="800" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Su03l&bg_color=0d1117&color=c9d1d9&line=FF2D20&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-</div>
+</div>>
 
 <br/>
 
