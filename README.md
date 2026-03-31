@@ -34,7 +34,7 @@
 
 <br/>
 
-## 🛠 Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
   <table style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
@@ -80,11 +80,11 @@
 
 <br/>
 
-## 📊 Development Analytics
+##  Development Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true&title_color=FF2D20&icon_color=FF2D20&text_color=c9d1d9" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF2D20&text_color=c9d1d9" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Su03l&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=c9d1d9&cache_seconds=3600" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su03l&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF2D20&text_color=c9d1d9&cache_seconds=3600" height="160" alt="Top Languages" />
 </div>
 
 <br/>
