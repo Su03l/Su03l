@@ -57,3 +57,17 @@ class Suliman extends FullStackDeveloper
         echo "Converting complex requirements into seamless digital experiences 🚀";
     }
 }
+ Development Analytics
+<div align="center">
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3DSu03l%26theme%3Ddark%26hide_border%3Dtrue%26background%3D0d1117%26ring%3DFF2D20%26fire%3DFF2D20%26currStreakNum%3Dffffff%26sideNums%3Dffffff%26currStreakLabel%3DFF2D20%26sideLabels%3Dc9d1d9%26dates%3Dc9d1d9" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DSu03l%26bg_color%3D0d1117%26color%3Dc9d1d9%26line%3DFF2D20%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" width="100%" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" style="border-radius: 15px;" alt="Coding Animation"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
